@@ -18,9 +18,7 @@
   },
   "author": "Evgeny Mizulin",
   "license": "GNU General Public License v3.0",
-  "engines": {
-    "node": "8.11.2"
-  },
+
   "dependencies": {
     "bootstrap-grid": "^2.0.1",
     "clone": "2.1.1",
